@@ -297,6 +297,10 @@
   }
 }
 
+/* --------------------------------------------------------------------------------- */
+/* Animaciones - ANIME.JS - https://animejs.com/ */
+/* --------------------------------------------------------------------------------- */
+
 .box-anime,
 .box-anime-delay {
   width: 100px;
@@ -348,3 +352,28 @@
   border-width: 0 54px 84px 54px;
   border-color: transparent transparent #0f766e transparent;
 }
+
+/* --------------------------------------------------------------------------------- */
+/* Animaciones - Librerías
+
+Lottie - https://airbnb.io/lottie/ - https://codepen.io/tutsplus/pen/bGqzLXg 
+
+AOS - https://michalsnik.github.io/aos/
+
+Mo.js - https://mojs.github.io/
+
+Glide (carrusel) - https://glidejs.com/
+
+Relax (paralax library) - https://dixonandmoe.com/rellax/
+
+Typed.js (escritura) - https://mattboldt.com/demos/typed-js/
+
+Animate.css (animaciones con utility classes) - https://animate.style/
+
+---
+
+Three.js - https://threejs.org/
+
+GSAP - https://gsap.com/
+
+/* --------------------------------------------------------------------------------- */
